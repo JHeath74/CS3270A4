@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS3270A4 Heath</string>
+    <string name="tax_rate">Tax Rate</string>
+    <string name="tax_amount">Tax Amount</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="item_amount1">Item Amount</string>
+    <string name="item_amount2">Item Amount</string>
+    <string name="item_amount3">Item Amount</string>
+    <string name="item_amount4">Item Amount</string>
+
+
+</resources>
